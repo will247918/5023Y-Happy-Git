@@ -1,6 +1,6 @@
 ---
 title: "Some cool animal facts"
-author: "Philip Leftwich"
+author: "William Lloyd"
 output: html_document
 ---
 
@@ -57,7 +57,14 @@ knitr::opts_chunk$set(echo = TRUE)
 - They are not endangered, just very elusive
 - Closely related to raccoons
 
-###
+#### Baby yoda Grogu
 
+![photo: Courtsey of disney](Grogu.jpg)
+
+##### Grogu cool facts
+ - Also known as "The Child"
+ - likes unfertilized frog eggs & control knobs
+ - Strong with the force
+ 
 ----------
 **Disclaimer:** This document is only for R Markdown & GitHub teaching purposes
